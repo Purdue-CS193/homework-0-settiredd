@@ -1,4 +1,4 @@
-#Shreeya's First CS193 Homework
+##Shreeya's First CS193 Homework
 
 - Magic words
 - Slightly smaller class size
